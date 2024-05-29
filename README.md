@@ -8,7 +8,8 @@
 
 
 
-### 💫 About Me:
+### 💫 About Me
+
 🔭 I am currently working on Tableau x Alteryx, machine learning, Azure Databricks workflows, good documentation practices, and update my portfolio.<br>
 
 :scroll: I am renovating my portfolio and update my projects if nesscary.<br>
@@ -71,7 +72,9 @@
 
 Plus more
 
+
 ---
+
 
 
 ### Connect wiith me on soical media 
@@ -84,6 +87,7 @@ Plus more
 [medium]: https://medium.com/@wuqianyi1021
 [x]: https://x.com/VeritasMSYWu
 [linkedin]: https://www.linkedin.com/in/sin-yee-wu-4480a61bb/
+
 
 
 
