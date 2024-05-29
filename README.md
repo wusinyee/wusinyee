@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**wusinyee/wusinyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/wusinyee/wusinyee/blob/372aabb6dc6aba17abba79edb86970ebc8b343bc/introcard.jpg" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## # 💫 About Me:
+🔭 I am currently working on Tableau x Alteryrx, Machine Learning, Azure Databricks Workflows, bussiness requirement documentation, and data and business processmodelling<br>
+👯 I'm open to contribute in open source project and collaboration<br>
+🤝 I'm looking for help with <br>
+🌱 I'm learning Rust, Robotics Process Automation, and project management methodologies.<br>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
