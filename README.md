@@ -74,12 +74,17 @@ Plus more
 ---
 
 
-### Connect wiith me on soical media 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Connect wiith me on soical media 
+[<img align="left" alt="wsy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="wsy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="wsy | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
+[<img align="left" alt="wsy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[medium]: https://medium.com/@wuqianyi1021
+[x]: https://x.com/VeritasMSYWu
+[linkedin]: https://www.linkedin.com/in/sin-yee-wu-4480a61bb/
+
 
 <br/>
 
