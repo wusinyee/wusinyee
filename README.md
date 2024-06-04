@@ -8,22 +8,6 @@
 
 
 
-### 💫 About Me
-
-🔭 I am currently working on Tableau x Alteryx, machine learning, Azure Databricks workflows, good documentation practices, and update my portfolio.<br>
-
-:scroll: I am renovating my portfolio and update my projects if nesscary.<br>
-
-🤔 I enjoy breaking down complex data sets and presenting Lthe insights using impactful visualization.<br> 
-
-👯 I'm open to contributing to open source projects and collaboration.<br>
-
-🤝 I'm looking for help with mastering other BI Tools such as Looker, Zoho, and Domo. Any resources, tutorials, or advice would be greatly appreciated!<br>
-
-🌱 I'm learning Rust, Robotics Process Automation, and project management methodologies.<br>
-
-💬 Ask me about dashboards (Tableau, Power BI, Qlik), GDocP, and business or data analytics things
-
 ---
 
 ### Language, Tech Stack and Tools
