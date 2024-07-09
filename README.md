@@ -1,8 +1,8 @@
 ###  Hi there :wave:
 
-🔭 I am currently working on Tableau x Alteryx, machine learning, Azure Databricks workflows, good documentation practices, and update my portfolio.<br>
+🔭 I am currently working on Tableau x Alteryx, machine learning, Documentation Intelligence, and Azure analytics tools. <br>
 
-:scroll: I am renovating my portfolio and update my projects if nesscary.<br>
+:scroll: I am renovating my portfolio and updating my projects.<br>
 
 🤔 I enjoy breaking down complex data sets and presenting Lthe insights using impactful visualization.<br> 
 
