@@ -1,16 +1,12 @@
 ###  Hi there :wave:
 
-🔭 I am currently working on Tableau x Alteryx, machine learning, Documentation Intelligence, and Azure analytics tools. <br>
+🔭 I am currently building a deep learning model for pneumonia detection in chest X-ray images. <br>
 
-:scroll: I am renovating my portfolio and updating my projects.<br>
+:scroll: I am also renovating my portfolio and updating my projects.<br>
 
 🤔 I enjoy breaking down complex data sets and presenting Lthe insights using impactful visualization.<br> 
 
 👯 I'm open to contributing to open source projects and collaboration.<br>
-
-🤝 I'm looking for help with mastering other BI Tools such as Looker, Zoho, and Sisense. Any resources, tutorials, or advice would be greatly appreciated!<br>
-
-🌱 I'm learning Rust.<br>
 
 💬 Ask me about dashboards (Tableau, Power BI, Qlik), and business or data analytics things.
 
@@ -72,13 +68,11 @@ Plus more
 ### Connect wiith me on soical media 
 
 [<img align="left" alt="wsy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="wsy | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
-[<img align="left" alt="wsy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 [medium]: https://medium.com/@wuqianyi1021
-[x]: https://x.com/VeritasMSYWu
-[linkedin]: https://www.linkedin.com/in/sin-yee-wu-4480a61bb/
+
 
 
 
