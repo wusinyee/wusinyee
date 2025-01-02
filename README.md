@@ -4,11 +4,9 @@
 
 :scroll: I am also renovating my portfolio and updating my projects.<br>
 
-🤔 I enjoy breaking down complex data sets and presenting Lthe insights using impactful visualization.<br> 
+🤔 I enjoy learning new things, breaking down complex data sets, problem-solving and create acceesible  visualization.<br> 
 
-👯 I'm open to contributing to open source projects and collaboration.<br>
 
-💬 Ask me about dashboards (Tableau, Power BI, Qlik), and business or data analytics things.
 
 
 
