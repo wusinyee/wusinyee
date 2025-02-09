@@ -89,19 +89,7 @@ Data Analytics Professional with 5+ years of experience in business intelligence
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-## 📈 Key Projects & Impact
 
-### Healthcare ML Solution
-- Developed and deployed pneumonia detection model using GANs
-- Technologies: TensorFlow, Computer Vision, MLflow
-- Impact: Improved diagnostic accuracy by 40%
-- Documentation: Created comprehensive technical and user documentation
-
-### Enterprise BI Implementation
-- Led end-to-end BI solution development
-- Technologies: Qlik Sense, SQL Server, Python
-- Impact: 60% reduction in reporting time
-- Stakeholder Management: Successfully coordinated with 5+ departments
 
 ## 🌱 Professional Development
 - Advanced MLOps Practices
