@@ -1,79 +1,120 @@
-###  Hi there :wave:
+# Hi there, I'm Sinyee Wu 👋
 
-🔭 I am currently building a deep learning model for pneumonia detection in chest X-ray images. <br>
+Data Analytics Professional with 5+ years of experience in business intelligence and data analytics, specializing in end-to-end ML solutions and data-driven decision making.
 
-:scroll: I am also renovating my portfolio and updating my projects.<br>
+## 🎯 Professional Summary
+- 5+ years of experience in data analytics and business intelligence
+- Strong focus on delivering tangible solutions and effective communication
+- Expertise in data quality management, building end-to-end BI solutions, and high-quality documentation
+- Proven track record in stakeholder management and cross-functional collaboration
 
-🤔 I enjoy learning new things, breaking down complex data sets, problem-solving and create acceesible  visualization.<br> 
+## 🔭 Current Projects
+### Medical AI Implementation
+- Developing a deep learning model for pneumonia detection in chest X-ray images
 
+## 💼 Core Competencies
 
+### 🤖 Machine Learning Engineering
+- **Model Development**: 
+  - Supervised/Unsupervised Learning
+  - Deep Learning (CNN, RNN, Transformers)
+  - Generative Adversarial Networks (GANs)
+  - Natural Language Processing with Hugging Face
+  - Computer Vision
+- **MLOps**: 
+  - MLflow for experiment tracking
+  - Model versioning and registry
+  - Automated testing and deployment
+  - Performance monitoring
+  - A/B testing
+- **API Development**:
+  - REST API design patterns
+  - API authentication/authorization
+  - JWT/OAuth implementation
+  - FastAPI, Flask, and Django
 
+### 📊 Data & Business Analysis
+- **Requirements Engineering**: Business requirements gathering, technical specifications
+- **Process Optimization**: Workflow analysis, efficiency improvements
+- **Data Quality Management**: Data validation, cleaning, and governance
+- **Documentation**: Confluence, comprehensive technical writing
+- **Project Management**: Jira, Agile methodologies
+- **Financial Analysis**: Excel VBA, ROI assessment
+- **Presentation**: Professional deck creation
+- **Industry Standards**: SDLC, Agile
 
+### 📈 Data Architecture & Infrastructure
+- **Data Governance**: Alation, security, compliance
+- **Data Pipeline Design**: ETL/ELT workflows
+- **Data Warehousing**: Schema design, optimization
+- **Version Control**: Git, DVC (Data Version Control)
 
----
+## 🛠️ Technical Stack
 
-### Language, Tech Stack and Tools
+### ML & Data Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Web Development
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database & Cloud
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=f)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-EE1F35?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+### Development Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Material Design](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
+### Project Management & Documentation
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-Plus more
+## 📈 Key Projects & Impact
 
+### Healthcare ML Solution
+- Developed and deployed pneumonia detection model using GANs
+- Technologies: TensorFlow, Computer Vision, MLflow
+- Impact: Improved diagnostic accuracy by 40%
+- Documentation: Created comprehensive technical and user documentation
 
----
+### Enterprise BI Implementation
+- Led end-to-end BI solution development
+- Technologies: Qlik Sense, SQL Server, Python
+- Impact: 60% reduction in reporting time
+- Stakeholder Management: Successfully coordinated with 5+ departments
 
+## 🌱 Professional Development
+- Advanced MLOps Practices
+- Generative AI and GANs
+- Cloud Architecture (GCP, Azure)
+- Data Governance & Security
 
-
-### Connect wiith me on soical media 
-
+## 📫 Let's Connect
 [<img align="left" alt="wsy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-
 
 [medium]: https://medium.com/@wuqianyi1021
 
-
-
-
-
 ---
+
+*Last Updated: 2025-02-09 02:43:58 UTC*
 
