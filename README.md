@@ -1,6 +1,7 @@
 # Hi there, I'm Sinyee Wu 👋
 
 Data Analytics Professional with 5+ years of experience in business intelligence and data analytics, specializing in end-to-end ML solutions and data-driven decision making.
+https://developers.google.com/profile/badges/events/io/2025/registered
 
 ## 🎯 Professional Summary
 - 5+ years of experience in data analytics and business intelligence
