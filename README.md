@@ -1,6 +1,7 @@
 # Hi there, I'm Sin Yee Wu (Mandy) 👋
 
 
+  [![Interactive Visualization](rsnvizz.gif)](https://wusinyee.vercel.app/)
 
 ---
 
